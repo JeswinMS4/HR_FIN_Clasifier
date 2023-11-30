@@ -1,0 +1,5 @@
+datasets
+pandas
+streamlit
+torch
+sentence-transformers
